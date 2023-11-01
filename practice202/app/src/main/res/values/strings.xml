@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practice20</string>
+    <string name="btn_off">отключить</string>
+    <string name="btn_on">включить</string>
+</resources>
